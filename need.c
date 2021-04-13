@@ -1,4 +1,4 @@
-include<dos.h>
+#include<dos.h>
 #include<graphics.h>
 #include<stdio.h>
 #include<stdlib.h>
